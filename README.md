@@ -1,4 +1,6 @@
 # Install Kubeflow on EKS
+This repo contains set of commands for [this](https://youtu.be/EqZTXpHYT7w) YouTube video.
+
 If you want to learn Kubernetes from scratch [here](https://www.udemy.com/course/kubernetes-for-beginners-with-aws-examples/?referralCode=6296632C3AA7FE388626) is my course. Thanks for your support.
 
 # AWS setup
