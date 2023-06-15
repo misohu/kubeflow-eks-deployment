@@ -143,3 +143,9 @@ eksctl delete cluster --name=kubeflow
 juju unregister kubeflow-controller 
 ```
 
+# One Command alternative 
+Alternatively you can use the `cluster.yaml` file to instantly create the cluster with the storage class in one command. Make sure to change the `publicKeyName` to the public keey which you want to use in the given region. After everything is setup run.
+
+```
+eksctl create cluster -f cluster.yaml
+```
